@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['blue', 'blue_goal', 'red', 'red_goal', 'blue_load', 'red_load', 'load_station', 'center_goal', 'long_goal', 'red_park', 'blue_park']
